@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34525.116
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prueba de sumas", "Prueba de sumas\Prueba de sumas.csproj", "{96009C05-C539-4F74-A54B-AE00B7313F0E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Divison", "Divison\Divison.csproj", "{ACC18FF2-2C26-44E2-8E9C-DF61184D384B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sumas y multi", "Sumas y multi\Sumas y multi.csproj", "{C40EAD1B-63B6-4A65-8834-4D6F9228B04E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +13,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{96009C05-C539-4F74-A54B-AE00B7313F0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{96009C05-C539-4F74-A54B-AE00B7313F0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{96009C05-C539-4F74-A54B-AE00B7313F0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{96009C05-C539-4F74-A54B-AE00B7313F0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACC18FF2-2C26-44E2-8E9C-DF61184D384B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACC18FF2-2C26-44E2-8E9C-DF61184D384B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACC18FF2-2C26-44E2-8E9C-DF61184D384B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACC18FF2-2C26-44E2-8E9C-DF61184D384B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C40EAD1B-63B6-4A65-8834-4D6F9228B04E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C40EAD1B-63B6-4A65-8834-4D6F9228B04E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C40EAD1B-63B6-4A65-8834-4D6F9228B04E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C40EAD1B-63B6-4A65-8834-4D6F9228B04E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
